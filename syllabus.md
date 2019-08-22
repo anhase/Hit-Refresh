@@ -66,7 +66,6 @@ We will review the course objectives and set guiding principles for our class ti
 **Week 3: Theory and Critical Concepts.** September 18
 
 - Louis Althusser. _Ideology and Ideological State Apparatuses._ In Critical Theory and Interaction Design. 2018.
-- Paul Dourish. _Ideology and Interpellation: Althusser&#39;s &#39;Ideology and Ideological State Apparatuses.&#39;_ In Critical Theory and Interaction Design. 2018.
 - Simone Browne. Introduction and Chapter 1. Dark Matters: On the Surveillance of Blackness. 2015.
 - Sasha Costanza-Chock. _Design Justice: Towards an Intersectional Feminist Framework for Design Theory and Practice._Proceedings of the Design Research Society. 2018.
 - Edward S. Herman and Noam Chomsky. _Chapter 1: A Propaganda Model_. Manufacturing Consent: The Political Economy of Mass Media. 1988.
@@ -132,7 +131,10 @@ We will review the course objectives and set guiding principles for our class ti
 
 **Week 12: The Crypto Wars.** November 20
 
-- **** Preparation TBD.
+- Matt Blaze and Sandy Clark. _Crypto Wars II: Updates from the Trenches._ Hackers on Planet Earth. 2016.
+- Darknet Diaries. _Episode 12;: Crypto Wars._ February 2018. [https://darknetdiaries.com/episode/12/]
+- Kurt Opsahl. _Crypto Wars Part II._ Chaos Communications Congress. 2015.
+- Kurt Opsahl. _The Fight for Encryption in 2016._ Chaos Communications Congress. 2016.
 
 **Week 13: No Class for National Holiday.** November 27
 
